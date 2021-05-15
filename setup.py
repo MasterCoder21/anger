@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
   long_description = f.read()
 
 setup(
-  name='angerr',
+  name='anger',
   version='0.0.1',
   description="When your coding doesn't work, simply call the rage function with the amount of your rage and you will feel much, much better.",
   py_modules=["anger"],
