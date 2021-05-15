@@ -11,7 +11,7 @@ setup(
   package_dir={"": "src"},
   long_description=long_description,
   long_description_content_type="text/markdown",
-  url="",
+  url="https://github.com/MasterCoder21/anger",
   author="minecraftpr03",
   author_email=None,
   classifiers=[
