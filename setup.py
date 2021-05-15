@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
   name='anger',
-  version='0.0.2',
+  version='0.0.1',
   description="When your coding doesn't work, simply call the rage function with the amount of your rage and you will feel much, much better.",
   py_modules=["anger"],
   package_dir={"": "src"},
