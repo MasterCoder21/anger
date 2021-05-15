@@ -18,4 +18,6 @@ def anger(amount : int = None):
     else:
       for i in range(amount):
         print(f"{i + 1}. WHY IS CODING SO HARD")
+      if str(amount).__contains__(69) or str(amount).__contains__(420):
+        print("nice\n")
       print("finally done raging.  are you?")
