@@ -4,7 +4,7 @@
 # LISTEN THERE IS ONLY ONE FUNCTION.  IF YOU DON'T SPECIFY A RAGE AMOUNT, THE RAGE IT GIVES IS VERY LAME.
 
 #### Example:
-`$ pip install anger`
+`$ pip install angerr`
 ```
 from anger import anger
 
